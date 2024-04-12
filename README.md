@@ -1,5 +1,5 @@
 ### Bitcoin Puzzle Solver
-This python script that generate random key from key space required to solve the ![puzzle](https://btcpuzzle.info/)
+This python script that generate random key from key space required to solve the [puzzle](https://btcpuzzle.info/)
 - `This script is tested on Windows and Linux`
 ### How to Install
 ```
